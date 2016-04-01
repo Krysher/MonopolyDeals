@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    padding: 0;
+    color:White;
+    background:#555555;
+    text-align:center;
+}
+
+#container {
+    padding-top: 1%;
+}
